@@ -1,0 +1,9 @@
+/* Hoja de estilo index */
+h1{
+	 color: blue;
+}
+body{
+	background-color: 	rgb (230,230,250);
+	background-repeat: no-repeat;
+    background-size: cover;
+}

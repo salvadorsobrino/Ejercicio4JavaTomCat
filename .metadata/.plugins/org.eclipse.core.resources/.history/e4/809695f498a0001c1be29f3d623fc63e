@@ -1,0 +1,4 @@
+/* Hoja de estilo index */
+h1{
+	 color: blue;
+}

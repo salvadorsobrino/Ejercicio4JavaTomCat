@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\salvador.sobrino\Desktop\BabelEjercicios\Ejercicio4JavaTomCat\.metadata\.plugins\org.eclipse.jdt.core
+4228322651.index
+1865797976.index
+107201917.index
