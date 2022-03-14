@@ -5,6 +5,14 @@ h1{
 body{
 	background-color: rgb(255, 255, 128);
     background-size: cover;
+    border-style: solid;
+    border-width: thin;
+    border-color: orange;
+    width: 50%;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 25%;
+
 }
 a:link {
     /* Enlaces no visitados */
@@ -13,7 +21,7 @@ a:link {
 
 a:visited {
     /* Enlaces visitados */
-    color: rgb(255, 128, 0);
+    color: rgb(255, 128, 64);
 }
 
 a:hover, a:focus {
